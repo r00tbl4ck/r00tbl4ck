@@ -1,7 +1,7 @@
 ## ☰ About Me
 I specialize in Cybersecurity and IT, with a focus on electrical and software projects during my free time. Additionally, I actively participate in Capture The Flag (CTF) challenges.
 
-## ➤ Socials
+## <img src="https://github.com/r00tbl4ck/r00tbl4ck/assets/115922670/08ce2b74-3165-4ba2-a877-7c6158fc013e" width="35" height="35"> Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berk-onsoy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@r00tbl4ck) [![HackerRank](https://img.shields.io/badge/HackerRank-black?link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fr00tbl4ck)](https://www.hackerrank.com/profile/r00tbl4ck) [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?link=https%3A%2F%2Ftryhackme.com%2Fp%2Fr00tbl4ck)](https://tryhackme.com/p/r00tbl4ck) [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?link=https%3A%2F%2Fleetcode.com%2Fr00tbl4ck%2F)](https://leetcode.com/r00tbl4ck/)
 
 
