@@ -12,7 +12,7 @@ I specialize in Cybersecurity and IT, with a focus on electrical and software pr
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=r00tbl4ck&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=r00tbl4ck&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r00tbl4ck&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&exclude=cmake&exclude=Makefile&exclude=*.mk&exclude=*.make&exclude=build&exclude=*.sh)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=r00tbl4ck&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&exclude=cmake&exclude=Makefile&exclude=*.mk&exclude=*.make&exclude=build&exclude=*.sh&exclude=build*)
 
 
 ### ✍️ Random Dev Quote
